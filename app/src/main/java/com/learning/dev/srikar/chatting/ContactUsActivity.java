@@ -43,8 +43,6 @@ public class ContactUsActivity extends AppCompatActivity {
         AppVersion = findViewById(R.id.CUAappVersion);
         AppVersion.setText(getResources().getString(R.string.AppVersion) + version);
 
-
-
     }
 
     @Override
